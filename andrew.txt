@@ -1,0 +1,8 @@
+git init
+git status
+git add -A
+git commit -m "v1"
+git push origin master -u
+
+*git remote add origin https://github.com/dnkm/andrew123.git
+*git clone https://github.com/dnkm/andrew123.git
